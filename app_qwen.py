@@ -65,7 +65,7 @@ def is_ollama_available():
 NEO4J_URI = os.environ.get("NEO4J_URI", "bolt://127.0.0.1:7687")
 NEO4J_AUTH = (
     os.environ.get("NEO4J_USER", "neo4j"),
-    os.environ.get("NEO4J_PASS", "unko1234"),
+    os.environ.get("NEO4J_PASS", ""),
 )
 
 driver = None
