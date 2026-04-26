@@ -226,8 +226,13 @@ LLM がなくてもベクトル検索による間接マッチは動作します�
 ollama pull qwen3:4b
 
 # 3. 環境変数でモデル指定（省略時は qwen2.5:7b）
+set OLLAMA_MODEL=qwen2.5:7b 
 set OLLAMA_MODEL=qwen3:4b        # Windows
 export OLLAMA_MODEL=qwen3:4b     # Mac/Linux
+
+# 別のターミナルで先にモデルをウォームアップ
+ollama run qwen3:4b "hello"
+ollama run qwen2.5:7b "hello"
 
 # 4. 起動（Ollama が localhost:11434 で動いていれば自動検出）
 python app_qwen.py

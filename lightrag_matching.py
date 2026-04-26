@@ -46,7 +46,7 @@ QWEN_BASE_URL = "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completi
 QWEN_MODEL = "qwen-plus"
 
 # Neo4j
-NEO4J_URI = os.environ.get("NEO4J_URI", "neo4j://127.0.0.1:7687")
+NEO4J_URI = os.environ.get("NEO4J_URI", "bolt://127.0.0.1:7687")
 NEO4J_AUTH = (
     os.environ.get("NEO4J_USER", "neo4j"),
     os.environ.get("NEO4J_PASS", "unko1234"),
