@@ -16,6 +16,8 @@ IT人材のスキルシートと求人票をドロップするだけで、LightR
   <img width="1778" height="1125" alt="image" src="https://github.com/user-attachments/assets/97860e05-54db-49a1-8ebc-b44352646567" />
 スキルシート、求人データ入力画面
   <img width="1652" height="1125" alt="image" src="https://github.com/user-attachments/assets/bce85282-5f0a-4f1c-a202-066254041aae" />
+  <img width="1800" height="1047" alt="image" src="https://github.com/user-attachments/assets/46ba78cb-a70f-43a1-9e86-7d3658a7c1bf" />
+
 マッチング結果
   <img width="2000" height="745" alt="image" src="https://github.com/user-attachments/assets/cf616695-59d2-4393-888c-2455c3ecdffb" />
 スキルグラフ
