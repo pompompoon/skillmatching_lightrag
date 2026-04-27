@@ -13,6 +13,15 @@ IT人材のスキルシートと求人票をドロップするだけで、LightR
 - エンティティの表記揺れ（Spring Boot / SpringBoot / スプリングブート）を自動統合
 - マッチング理由を自然言語で説明
 
+  <img width="1778" height="1125" alt="image" src="https://github.com/user-attachments/assets/97860e05-54db-49a1-8ebc-b44352646567" />
+スキルシート、求人データ入力画面
+  <img width="1652" height="1125" alt="image" src="https://github.com/user-attachments/assets/bce85282-5f0a-4f1c-a202-066254041aae" />
+マッチング結果
+  <img width="2000" height="745" alt="image" src="https://github.com/user-attachments/assets/cf616695-59d2-4393-888c-2455c3ecdffb" />
+スキルグラフ
+
+
+
 ## アーキテクチャ
 
 ```
