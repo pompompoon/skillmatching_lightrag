@@ -130,6 +130,8 @@ IT人材のスキルシートと求人票をドロップするだけで、LightR
 │ + LLM Reasoning        │  → LLM で推論・スコアリング
 └────────────────────────┘
 ```
+###LightRAG概念図
+<img width="395" height="431" alt="image" src="https://github.com/user-attachments/assets/33511909-85d9-4286-8d53-3dc667df9397" />
 
 ### スキルマッチング固有の処理
 
